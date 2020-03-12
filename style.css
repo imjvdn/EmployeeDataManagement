@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: rgb(0, 0, 0);
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+h1,
+p {
+  color: white;
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
